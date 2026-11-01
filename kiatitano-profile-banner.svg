@@ -1,30 +1,30 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="420" viewBox="0 0 1600 420" role="img" aria-labelledby="title desc">
-  <title id="title">Kiarash — Game Developer and Software Engineer</title>
-  <desc id="desc">A dark indigo and teal developer banner with abstract geometric game world shapes.</desc>
+  <title id="title">Kiarash — Game Developer and Frontend &amp; Backend Engineer</title>
+  <desc id="desc">A deep purple developer banner with geometric game world shapes.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0b1020"/><stop offset=".56" stop-color="#17143a"/><stop offset="1" stop-color="#082f3b"/>
+      <stop offset="0" stop-color="#10091f"/><stop offset=".56" stop-color="#241044"/><stop offset="1" stop-color="#351263"/>
     </linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop stop-color="#8b7cff"/><stop offset="1" stop-color="#38e1d2"/>
+      <stop stop-color="#c4a5ff"/><stop offset="1" stop-color="#8b5cf6"/>
     </linearGradient>
-    <radialGradient id="glow"><stop stop-color="#6258ff" stop-opacity=".28"/><stop offset="1" stop-color="#6258ff" stop-opacity="0"/></radialGradient>
-    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#b9c7ff" stroke-opacity=".07" stroke-width="1"/></pattern>
+    <radialGradient id="glow"><stop stop-color="#8b5cf6" stop-opacity=".36"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#e9ddff" stroke-opacity=".07" stroke-width="1"/></pattern>
   </defs>
   <rect width="1600" height="420" rx="28" fill="url(#bg)"/>
   <rect width="1600" height="420" rx="28" fill="url(#grid)"/>
   <circle cx="1180" cy="165" r="330" fill="url(#glow)"/>
-  <g fill="none" stroke="url(#accent)" stroke-width="2" opacity=".72">
+  <g fill="none" stroke="url(#accent)" stroke-width="2" opacity=".78">
     <path d="M1100 100l96-55 96 55v110l-96 55-96-55z"/><path d="M1196 45v110l96 55M1196 155l-96 55"/>
     <path d="M1280 260l58-34 58 34v68l-58 34-58-34z" opacity=".65"/>
     <circle cx="1430" cy="96" r="19"/><path d="M1430 62v68M1396 96h68" opacity=".65"/>
     <path d="M1050 300h170M1050 316h112" opacity=".4"/>
   </g>
   <rect x="96" y="76" width="64" height="5" rx="2.5" fill="url(#accent)"/>
-  <text x="96" y="177" fill="#f7f8ff" font-family="Segoe UI,Arial,sans-serif" font-size="78" font-weight="700" letter-spacing="2">KIARASH</text>
-  <text x="100" y="229" fill="#c9c9e7" font-family="Segoe UI,Arial,sans-serif" font-size="23" font-weight="600" letter-spacing="3">GAME DEVELOPER  /  WEB &amp; APP ENGINEER</text>
-  <path d="M100 270h510" stroke="url(#accent)" stroke-width="2" opacity=".72"/>
-  <text x="100" y="315" fill="#e5e7f5" font-family="Segoe UI,Arial,sans-serif" font-size="22">Unity  ·  C#  ·  Flutter  ·  PHP</text>
-  <text x="100" y="365" fill="#8490b5" font-family="Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="2">BUILDING WORLDS &amp; DIGITAL PRODUCTS</text>
-  <text x="1440" y="372" text-anchor="end" fill="#9da8c9" font-family="Consolas,monospace" font-size="15">@kiatitano</text>
+  <text x="96" y="177" fill="#faf7ff" font-family="Segoe UI,Arial,sans-serif" font-size="78" font-weight="700" letter-spacing="2">KIARASH</text>
+  <text x="100" y="229" fill="#e0d1ff" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="600" letter-spacing="2">GAME DEVELOPER  /  FRONTEND &amp; BACKEND</text>
+  <path d="M100 270h510" stroke="url(#accent)" stroke-width="2" opacity=".78"/>
+  <text x="100" y="315" fill="#f0eaff" font-family="Segoe UI,Arial,sans-serif" font-size="22">React  ·  Unity  ·  C#  ·  Flutter</text>
+  <text x="100" y="365" fill="#b4a2d8" font-family="Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="2">BUILDING WORLDS &amp; DIGITAL PRODUCTS</text>
+  <text x="1440" y="372" text-anchor="end" fill="#c8b7e8" font-family="Consolas,monospace" font-size="15">@kiatitano</text>
 </svg>
