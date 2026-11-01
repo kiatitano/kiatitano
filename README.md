@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./kiatitano-profile-banner.svg" alt="Kiarash — Game Developer and Frontend & Backend Developer" width="100%" />
+  <img src="./kiatitano-profile-banner-violet.svg" alt="Kiarash — Game Developer and Frontend & Backend Developer" width="100%" />
 </div>
 
 <p align="center">
