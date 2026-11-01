@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./kiatitano-profile-banner.svg" alt="Kiarash — Game Developer and Web & App Engineer" width="100%" />
+  <img src="./kiatitano-profile-banner.svg" alt="Kiarash — Game Developer and Frontend & Backend Developer" width="100%" />
 </div>
 
 <p align="center">
@@ -12,14 +12,14 @@
 
 ## About
 
-I’m Kiarash, a developer working across game development, web, and mobile apps. I enjoy building interactive experiences and useful products, from Unity gameplay systems to full-stack applications.
+I’m Kiarash, a game developer and frontend/backend developer. I build interactive games and modern web and mobile products, working with React and current web technologies.
 
 ## What I Work With
 
 - **Game development:** Unity, C#, gameplay systems, and developer tools
-- **Web development:** PHP, JavaScript, HTML, and CSS
-- **Mobile development:** Flutter and Dart
-- **Product engineering:** APIs, integrations, and desktop utilities
+- **Frontend:** React, JavaScript, modern web technologies, and responsive interfaces
+- **Backend:** Server-side applications, APIs, and integrations
+- **Mobile:** Flutter and Dart
 
 ## Featured Projects
 
